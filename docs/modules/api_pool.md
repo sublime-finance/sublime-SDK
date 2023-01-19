@@ -1,0 +1,9 @@
+[sublime-sdk-v2](../README.md) / [Modules](../modules.md) / api/pool
+
+# Module: api/pool
+
+## Table of contents
+
+### Classes
+
+- [PoolApi](../classes/api_pool.PoolApi.md)
